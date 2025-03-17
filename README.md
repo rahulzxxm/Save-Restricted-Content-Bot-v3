@@ -14,6 +14,8 @@ Please do start and max fork thanks
 - for detailed features scroll down to features section
 
 ---
+https://dashboard.heroku.com/new-app?template=https://github.com/rahulzxxm/Save-Restricted-Content-Bot-v3
+
 
 ## 🔧 Features
 - Extract content from both public and private channels/groups.
